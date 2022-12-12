@@ -1,0 +1,54 @@
+h1 {
+    color: white;
+    text-align: center;
+    }
+button{
+    color: #27aedb;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    margin: 5%;
+    padding: 0.5%;
+    border:#0d663c;
+    font-weight: bold;
+    font-size: large;
+    background-color: #0b5e42;
+    color: white;
+}
+.btn:hover{
+    cursor: pointer;
+    background-color: #04213a;
+    color: white;
+    width:6rem;
+}
+.bg-pink{
+	background-color:pink;
+}
+.container{
+    border:1px solid black;
+    width: 50%;
+    margin: 4% auto;
+    background-color: #19921f;
+    text-shadow: 1px 1px 1px;
+}
+#todo{
+    display: flex;
+    justify-content: left;
+}
+#task{
+   margin: 5%;
+   width: 60%;
+   padding: 1%;
+   border:#1e3d59;
+   text-align: center;
+   font-size: xx-large
+}
+.list{
+ margin: 5%;
+ font-size: xx-large;
+ color:#39591e;
+ background-color: white;
+ list-style-type: none;
+ text-align: center;
+ padding: 1%;
+}
